@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ytrer15530
-- 👀 I’m interested in Python and GameDev
+- 👀 I’m interested in ...
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: discord - ytrer.
